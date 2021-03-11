@@ -1,6 +1,6 @@
 # AdversialAutoEncoder
 
-<strong>This is my first attempt to build a GAN model using a Variational Autoencoder and Discriminator</strong>
+<strong>This is my first attempt to build a GAN model using a Variational Autoencoder and a Discriminator</strong>
 <br/>
 <i>The Below GIF shows the model performance ...</i>
 <br/>
